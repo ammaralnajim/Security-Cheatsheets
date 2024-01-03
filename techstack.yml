@@ -1,0 +1,19 @@
+repo_name: ammaralnajim/Security-Cheatsheets
+report_id: f028a93dfce95b61701851f31a5a980d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-03T01:11:31+00:00'
+requested_by: 5ub34x
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
